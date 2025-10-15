@@ -6,7 +6,7 @@ Welcome to the OctoAcme Project Management Documentation hub. This collection of
 
 OctoAcme's project management processes are designed to ensure consistent, high-quality delivery through clear roles, structured workflows, and transparent communication. The lifecycle begins with project initiation, where the business need is validated, stakeholders are aligned, and success metrics are defined. Key artifacts, such as the Project One-pager and Risk Register, are created early on to provide clarity and focus. Once approved, initiatives move into planning, where work is broken into actionable increments, dependencies are mapped, and release timelines are established. This phase emphasizes kickoffs, backlog creation with acceptance criteria, and the documentation of the Definition of Done.
 
-The team operates with well-defined personas: Project Managers coordinate delivery, manage risks, and facilitate communication; Product Managers prioritize the backlog, own the product vision, and measure outcomes; Developers implement features, maintain code quality, and participate in reviews; Stakeholders provide input and approvals. These roles interact within a cadence of daily standups, weekly syncs, and regular demos, ensuring alignment and rapid escalation of blockers when needed. OctoAcme maintains a strong emphasis on psychological safety and iterative delivery, encouraging feedback and continuous improvement through retrospectives after each sprint or milestone.
+The team operates with well-defined personas: Project Managers coordinate delivery, manage risks, and facilitate communication; Product Managers prioritize the backlog, own the product vision, and measure outcomes; Developers implement features, maintain code quality, and participate in reviews; UX Designers create user-centered designs and validate solutions; DevOps Engineers build CI/CD pipelines and maintain infrastructure; Business Analysts bridge business needs and technical solutions; QA Leads ensure quality through comprehensive testing strategies; and Stakeholders provide strategic direction, input, and approvals. These roles interact within a cadence of daily standups, weekly syncs, and regular demos, ensuring alignment and rapid escalation of blockers when needed. Clear role boundaries and decision authority promote efficient collaboration and reduce ambiguity. OctoAcme maintains a strong emphasis on psychological safety and iterative delivery, encouraging feedback and continuous improvement through retrospectives after each sprint or milestone.
 
 Execution is tracked using tools like GitHub Projects, with explicit workflows for pull requests, quality assurance, and risk management. Small PRs, automated CI checks, and mandatory code reviews are standard, complemented by unit, integration, and end-to-end tests. The team also monitors velocity, success metrics, and key signals via dashboards, and updates the risk register weekly. Blockers are escalated in a structured manner, starting from team triage to sponsor-level intervention for critical issues.
 
@@ -30,13 +30,17 @@ This documentation is organized to support you at every stage of the project lif
 
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) — Capture learnings and convert them into actionable improvements through structured retrospectives and continuous improvement culture.
 
-- [Roles and Personas](octoacme-roles-and-personas.md) — Detailed definitions of typical roles and responsibilities, including Developers, Product Managers, and Project Managers.
+- [Roles and Personas](octoacme-roles-and-personas.md) — Detailed definitions of typical roles and responsibilities, including Developers, Product Managers, Project Managers, UX Designers, DevOps Engineers, Business Analysts, QA Leads, and Stakeholders, with interaction patterns and collaboration guidance.
+
+- [Role Boundaries & Cross-Functional Collaboration](octoacme-role-boundaries-and-collaboration.md) — Clarify role boundaries, decision-making authority, and collaboration patterns to reduce ambiguity and ensure efficient cross-functional teamwork.
+
+- [Team Onboarding Checklist](octoacme-onboarding-checklist.md) — Structured checklist to ensure new team members have the context, access, and resources needed to contribute effectively, with role-specific guidance for each persona.
 
 ---
 
 ## Getting Started
 
-**New to the team?** Start with the [Project Management Overview](octoacme-project-management-overview.md) to understand our principles and approach, then review [Roles and Personas](octoacme-roles-and-personas.md) to understand your responsibilities.
+**New to the team?** Start with the [Team Onboarding Checklist](octoacme-onboarding-checklist.md) for a structured onboarding plan, then review the [Project Management Overview](octoacme-project-management-overview.md) to understand our principles and approach. Next, read [Roles and Personas](octoacme-roles-and-personas.md) to understand your responsibilities and [Role Boundaries & Cross-Functional Collaboration](octoacme-role-boundaries-and-collaboration.md) to learn how to collaborate effectively with other roles.
 
 **Starting a new project?** Follow the documentation in order: begin with [Project Initiation](octoacme-project-initiation.md), move to [Project Planning](octoacme-project-planning.md), and reference [Execution & Tracking](octoacme-execution-and-tracking.md) during delivery.
 
